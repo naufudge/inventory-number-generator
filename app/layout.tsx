@@ -19,8 +19,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`h-full ${raleway.className} overflow`}>
+      <body className={`h-full ${raleway.className} overflow-x-hidden`}>
         <h1 className={`${roboto.className} text-center text-[2rem] mt-12 mx-7`}>Generate Asset Inventory Number</h1>
+        <p className="text-center opacity-45 italic mt-1 mx-5">Be sure to change the [item_no.] to the respecive asset count.</p>
         {children}
 
         {/* <footer className="mx-5 ">
