@@ -21,4 +21,4 @@ This is a web app that can be used to generate asset inventory number in accord 
 Using this web app is really simple. First, fill in the company code and purchase year field. This will enable the main category selection menu. Choose the categories according to your requirements and the number will be generated at the bottom.
 
 ## Screenshot
-<img src="public/ss.png?raw=true" height="500">
+<img src="public/ss.png?raw=true" width="1000">
